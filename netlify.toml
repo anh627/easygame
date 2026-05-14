@@ -3,9 +3,6 @@
   publish = "easy-vibe-main/docs/.vitepress/dist"
   node_version = "20"
 
-[build.environment]
-  NODE_ENV = "production"
-
 [[redirects]]
   from = "/*"
   to = "/index.html"
