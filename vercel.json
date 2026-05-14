@@ -2,7 +2,7 @@
   "buildCommand": "NODE_OPTIONS='--max-old-space-size=4096' npm run build",
   "installCommand": "npm install",
   "framework": "vitepress",
-  "outputDirectory": "easy-vibe-main/docs/.vitepress/dist",
+  "outputDirectory": "docs/.vitepress/dist",
   "headers": [
     {
       "source": "/(.*)",
