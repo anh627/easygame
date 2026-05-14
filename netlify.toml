@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = "docs/.vitepress/dist"
+  publish = "easy-vibe-main/docs/.vitepress/dist"
   node_version = "20"
 
 [build.environment]
