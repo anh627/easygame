@@ -14,7 +14,6 @@
     "verify": "bash scripts/verify.sh",
     "lint": "eslint docs/.vitepress/theme",
     "lint:fix": "eslint docs/.vitepress/theme --fix",
-    "prepare": "husky",
     "sitemap": "node scripts/generate-sitemap.mjs"
   },
   "keywords": [
